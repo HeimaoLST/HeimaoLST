@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Introduction
 
-<!--
-**HeimaoLST/HeimaoLST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 
-Here are some ideas to get you started:
+Hi guys, I'm **HeimaoLST**. I am a Golang developer. I'm looking for a job about Golang Back-end development or other lauguage. 
+Contact me if you have same interesting or some questions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me on Social Media
+
+✉️ [Email](linfengsoul@gmail.com) | 💬 [Issue](https://github.com/HeimaoLST/HeimaoLST/issues/me) Me about everything!
+
+### 💻 Open Source Work Stats
+
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=HeimaoLST&show_icons=true)
