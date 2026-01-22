@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 
-Hi guys, I'm **HeimaoLST**. I am a Golang developer. I'm looking for a job about Golang Back-end development or other lauguage. 
+Hi guys, I'm **HeimaoLST**. I am a Golang developer. ~~I'm looking for a job about Golang Back-end development or other lauguage.~~ 
 Contact me if you have same interesting or some questions!
 
 ### 📫 Contact Me on Social Media
